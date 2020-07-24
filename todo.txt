@@ -1,0 +1,8 @@
+0. add a readme for explaining the entire flow of project
+1. redis key at phase 3
+2. store user as well
+3. apply rate limiting
+4. background check when redis is empty and call for adding data to it
+5. background check when offlinekeysdb is empty and call for filling.
+6. form
+
